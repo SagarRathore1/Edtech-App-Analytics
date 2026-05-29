@@ -4,6 +4,17 @@
 ## 📝 Overview
 This repository contains an interactive Excel Dashboard designed to analyze the behaviors, engagement metrics, and revenue generation of 100,000 learners across major MOOC (Massive Open Online Course) platforms. The project transforms raw educational data into actionable business intelligence, highlighting trends in user acquisition, course completion, and platform monetization.
 
+## 📸 Dashboard Preview
+<img width="1311" height="525" alt="Screenshot 2026-04-05 012846" src="https://github.com/user-attachments/assets/d6782f8a-411a-4f80-aed1-406ea36726bb" />
+
+<img width="1317" height="523" alt="Screenshot 2026-04-05 111009" src="https://github.com/user-attachments/assets/69472ca0-1cff-4c1b-8a28-f1337c20b2ab" />
+
+<img width="1319" height="526" alt="Screenshot 2026-04-05 115330" src="https://github.com/user-attachments/assets/f89a0bbc-3039-4d80-8d73-883304330ee0" />
+
+<img width="1331" height="523" alt="Screenshot 2026-04-05 122432" src="https://github.com/user-attachments/assets/473cb6af-541b-40c4-ba68-879ca6e13303" />
+
+<img width="1320" height="527" alt="Screenshot 2026-04-05 124755" src="https://github.com/user-attachments/assets/11bbec2f-c2b7-46e1-ab74-b0a3d2ee47ae" />
+
 ## 🎯 Key Objectives
 * **Demographic & Acquisition Analysis:** Track user growth (DAU) from 2020 to 2025 and understand the distribution of learners by age, gender, and education level.
 * **Financial Performance:** Compare the revenue contributions of Free vs. Premium users to evaluate monetization strategies.
