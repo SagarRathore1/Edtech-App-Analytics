@@ -24,7 +24,7 @@ The underlying dataset (`digital_learning_analytics_100k.xlsx`) contains 100,000
 * **Data Cleaning & Transformation:** Ensuring data consistency across 100k rows for accurate dashboard rendering.
 * **Interactive Dashboard Design:** Utilizing slicers and dynamic charts to allow users to filter data by year, platform, and user type.
 
-## 💡 Key Insights (Sample)
+## 💡 Key Insights
 1. **Revenue Concentration:** Premium users drive the entirety of the platform's $6.87M revenue pool, while free users represent a significant portion of the acquisition funnel.
 2. **Consistent Learning Times:** The average "Time to Mastery" remains incredibly stable (~36.8 to 36.9 hours) regardless of the discipline (Data Science vs. Arts & Humanities).
 3. **Acquisition Trends:** User acquisition remained highly stable from 2020 through 2025, averaging roughly ~16,600 to ~16,700 new learners annually.
